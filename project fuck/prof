@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>kavabanga</title>
+<link rel="stylesheet" href="style.css" type="text/css" >
+<!--[if IE]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+</head>
+<body>
+<div>
+	<img src="profile.jpg" alt="Profile" class="prfl">
+	<a href="" class="social twitter"></a>
+	<a href="" class="social facebook"></a>
+	<a href="" class="social thumbler"></a>
+	<a href="" class="social printerest"></a>
+</div>
+<div class="cntnr">
+	<div class="central sky"></div>
+	<div class="central blue"></div>
+	<div class="central red"></div>
+</div>
+<div class="qstn">
+	<div class="kvdrt"></div>
+	<div class="txt">
+	<h3>have any questions</h3>
+	<p><b>Email:</b>epamlab@epam.com</p>
+	<p><b>Phone</b>+375 123 456 678</p>
+	<p><b>Contact Person:</b> Somebody</p>
+	</div>
+</div>
+
+
+</body>
+</html>
+
